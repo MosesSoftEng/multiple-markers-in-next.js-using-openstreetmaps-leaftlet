@@ -1,9 +1,6 @@
 // Import the `dynamic` function from the `next/dynamic` module.
 import dynamic from "next/dynamic";
 
-// Import the React module.
-import React from "react";
-
 // Define a functional React component named `Home`.
 export default function Home() {
 	// Dynamically import the `MyMap` component.
