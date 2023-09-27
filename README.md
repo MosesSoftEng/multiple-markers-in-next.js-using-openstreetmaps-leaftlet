@@ -37,7 +37,20 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Packages.
 
-## React leaflet
+```bash
+# Install leaflet peer dependencies.
+npm install leaflet
+
+# Install React Leaflet.
+install React Leaflet
+
+# Install react Leaflet TypeScript definitions for typescript.
+npm install -D @types/leaflet
+
+# Library containing the default icons.
+npm install leaflet-defaulticon-compatibility
+```
+
+# References.
 
 [https://react-leaflet.js.org/docs/start-installation/](https://react-leaflet.js.org/docs/start-installation/)
-[]()
